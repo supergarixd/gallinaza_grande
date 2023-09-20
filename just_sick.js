@@ -63,7 +63,7 @@ javascript:(function() {
     rickRollButton.style.color = 'white';
     rickRollButton.style.border = 'none';
     rickRollButton.style.borderRadius = '5px';
-    rickRollButton.style.padding = '20px 10px';
+    rickRollButton.style.padding = '30px 15px';
     rickRollButton.style.cursor = 'pointer';
 
     rickRollButton.addEventListener('click', () => {
